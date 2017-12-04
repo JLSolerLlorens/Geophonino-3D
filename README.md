@@ -1,3 +1,3 @@
 # Geophonino3D
-Source code for Geophonino-3D application is under revisión for publication in a scientific journal.
-It will be available here when the paper will be published.
+Source code for Geophonino-3D application.
+More information https://doi.org/10.1016/j.sna.2017.11.047
